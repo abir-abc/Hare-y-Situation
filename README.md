@@ -3,8 +3,7 @@
 **Hare-y Situation** is a fast-paced, "Whack-a-Mole" style browser game. Test your reflexes by saving bunnies while avoiding dangerous bombs! This project features custom **Lottie (JSON) animations** for a high-quality visual experience.
 
 ## 🚀 Live Demo
-**[PLAY THE GAME HERE](https://abir-abc.github.io/Hare-y-Situation/)** *(Note: Link will work once GitHub Pages is enabled in Settings)*
-
+**[PLAY THE GAME HERE](https://abir-abc.github.io/Hare-y-Situation/)**
 ---
 
 ## 🎮 How to Play
